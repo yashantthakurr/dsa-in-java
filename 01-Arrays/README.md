@@ -33,8 +33,8 @@ This folder contains my implementations and practice problems related to **Array
 - `ArrayTraversal.java`
 - `LinearSearch.java`
 - `BinarySearch.java`
-- `ReverseArray.java`
-- `MaxElement.java`
+- `ReversedArray.java`
+- `GreatestAndLowestElement.java`
 
 *(More programs will be added as I progress.)*
 
