@@ -23,7 +23,6 @@ Pattern problems help in developing **logic building**, **loop understanding**, 
 | Nested Loops | Using loops inside loops to form patterns |
 | Star Patterns | Printing shapes using `*` |
 | Number Patterns | Patterns formed using numbers |
-| Character Patterns | Alphabet-based designs |
 | Pyramid Patterns | Center-aligned structures |
 | Logic Building | Converting visual patterns into code logic |
 
