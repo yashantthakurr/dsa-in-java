@@ -57,5 +57,3 @@ To strengthen programming fundamentals and improve logical thinking required for
 - Java ☕
 
 ---
-
-> Pattern practice is part of building a strong programming foundation before advanced Data Structures and Algorithms.
