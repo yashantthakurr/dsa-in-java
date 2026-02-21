@@ -7,7 +7,7 @@ class MyNode {
     }
 }
 
-public class LinkedListsDemo {
+public class InsertionAtLast {
     MyNode head;
     public void addLast(String data) {
         MyNode newNode = new MyNode(data);
@@ -31,8 +31,8 @@ public class LinkedListsDemo {
     }
 
     public static void main(String[] args) {
-        LinkedListsDemo list1 = new LinkedListsDemo();
-        LinkedListsDemo list2 = new LinkedListsDemo();
+        InsertionAtLast list1 = new InsertionAtLast();
+        InsertionAtLast list2 = new InsertionAtLast();
 
         list1.addLast("Apple");
         list1.addLast("Mango");
@@ -50,3 +50,4 @@ public class LinkedListsDemo {
         list2.display();
     }
 }
+
